@@ -1,2 +1,2 @@
 # Hampurilaismenu
-HTML5, CSS3
+Hampurilaismenu käyttäen HTML5, CSS3
